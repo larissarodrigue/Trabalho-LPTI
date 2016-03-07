@@ -6,7 +6,7 @@ HOLLA IF YA HEAR ME;
 WHO'S NEXT?;
 AND THAT'S THE BOTTOM LINE, BECAUSE I'VE SAID SO;
 
-Imperium - Seu Gerenciador Pessoal de Registros Acadêmicos. Criado com muito amor, carinho e raiva po:
+Imperium - Seu Gerenciador Pessoal de Registros Acadêmicos. Criado com muito amor, carinho e raiva por:
   -Pedro Barbosa
   -Edgard Alexandre
   -Larissa Rodrigues
